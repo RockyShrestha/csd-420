@@ -1,8 +1,8 @@
 # Module 3.2 Programming Assignment
 
-**Author:** Rakesh Shrestha
-**Course:** CSD420-T301 Advanced Java Programming
-**Instructor:** Professor Tedi Pano
+**Author:** Rakesh Shrestha\
+**Course:** CSD420-T301 Advanced Java Programming\
+**Instructor:** Professor Tedi Pano\
 **Date:** September 27, 2026
 
 ## Description
