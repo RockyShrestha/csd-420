@@ -1,0 +1,7 @@
+2026-09-27 20:44:38 [INFO] Program started.
+2026-09-27 20:44:38 [INFO] Integer test passed. 19 distinct values kept and 31 duplicates removed.
+2026-09-27 20:44:38 [INFO] String test passed. Result: [Java, Python, C#, SQL]
+2026-09-27 20:44:38 [WARNING] Handled invalid input for removeDuplicates(null): The list passed to removeDuplicates cannot be null.
+2026-09-27 20:44:38 [WARNING] Handled invalid input for createRandomList with the range reversed (20 to 1): The minimum value (20) cannot be greater than the maximum value (1).
+2026-09-27 20:44:38 [WARNING] Handled invalid input for createRandomList with a size of -5: The list size must be zero or greater, but it was -5.
+2026-09-27 20:44:38 [INFO] Program finished successfully.
