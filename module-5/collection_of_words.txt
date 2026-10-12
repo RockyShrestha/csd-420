@@ -1,0 +1,10 @@
+Java is a language I use every day for school, and Java keeps teaching me something new.
+In this module we learned about sets and maps. A set does not allow duplicate values,
+so if I add the word "set" ten times, the set still holds only one copy of it.
+A HashSet does not keep any order, a LinkedHashSet keeps the insertion order,
+and a TreeSet keeps every word sorted in ascending order.
+A map stores a key and a value. The key must be unique, but the value can repeat.
+Mount Everest is the tallest mountain in the world, and Everest is in Nepal.
+Kathmandu is the capital of Nepal, and the mountains around Kathmandu are beautiful.
+Don't forget: practice, practice, and more PRACTICE makes a better programmer!
+The quick brown fox jumps over the lazy dog, and the lazy dog doesn't move.
