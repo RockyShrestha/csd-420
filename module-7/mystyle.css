@@ -1,0 +1,50 @@
+/*
+ * Name:        Rakesh Shrestha
+ * Course:      CSD420-T301 Advanced Java Programming
+ * Instructor:  Professor Tedi Pano
+ * Assignment:  Module 7.2 Programming Assignment
+ * Date:        October 25, 2026
+ *
+ * External JavaFX style sheet for ShresthaStyledCircles.
+ *
+ * A style class (starts with a dot) can be shared by many nodes.
+ * A style ID (starts with #) is meant for one unique node.
+ * When a node has both, the ID wins because an ID selector is more
+ * specific than a class selector.
+ *
+ * Attribution: Based on mystyle.css in Liang, Y. D. (2024). Introduction
+ * to Java Programming and Data Structures (13th ed.), Chapter 31, and the
+ * Module 7 mystyle.css example by Professor Darrell Payne.
+ */
+
+/*
+ * Style class: white fill with a black stroke
+ */
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/*
+ * Style class: thick black border around a pane
+ */
+.border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
+
+/*
+ * Style ID: red circle
+ */
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+/*
+ * Style ID: green circle
+ */
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
