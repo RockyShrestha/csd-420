@@ -1,0 +1,11 @@
+{
+  "course" : "CSD420",
+  "title" : "Advanced Java Programming",
+  "credits" : 3,
+  "online" : true,
+  "instructor" : {
+    "name" : "Tedi Pano",
+    "role" : "Professor"
+  },
+  "topics" : [ "JavaFX", "Generics", "Collections", "JDBC", "JSON" ]
+}
